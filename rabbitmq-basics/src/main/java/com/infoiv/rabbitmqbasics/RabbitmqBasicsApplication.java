@@ -2,7 +2,6 @@ package com.infoiv.rabbitmqbasics;
 
 import com.infoiv.rabbitmqbasics.config.RabbitMqConfig;
 import com.infoiv.rabbitmqbasics.publiser.MessagePublisher;
-import org.springframework.amqp.rabbit.annotation.EnableRabbit;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

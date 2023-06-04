@@ -3,7 +3,6 @@ package com.infoiv.rabbitmqbasics.controller;
 import com.infoiv.rabbitmqbasics.config.RabbitMqConfig;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
