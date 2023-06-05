@@ -1,2 +1,3 @@
 rootProject.name = 'spring-boot-rabbitmq'
 include('rabbitmq-basics')
+include('rabbitmq-basics-listener')
